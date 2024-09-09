@@ -1,0 +1,9 @@
+while (a3+09)>0x0.ba do 
+    if x2 = 07 then 
+     while y<z do 
+       {
+          y = x * y / z;
+          a=a+1;
+       } 
+    else  b=b*a;
+ c=b*c+d;
